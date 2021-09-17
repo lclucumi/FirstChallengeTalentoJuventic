@@ -17,12 +17,14 @@ header .bx {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
   color: #fff;
+  font-size: 20px;
   text-align: left;
+  font-weight: 300;
 }
 
 #inicio .carousel-caption h1 {
   font-family: "Dancing Script", cursive;
-  color: rgb(245, 205, 157);
+  color: rgb(255, 179, 86);
 }
 
 #inicio .carousel-caption p {
@@ -57,6 +59,10 @@ header .bx {
 
 #nosotros i {
   color: #ffb03b;
+}
+
+#nosotros .us-info {
+  text-align: justify;
 }
 
 #nosotros .btn-menu {
