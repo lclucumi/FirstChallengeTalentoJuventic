@@ -31,8 +31,12 @@ header .bx {
   color: floralwhite;
 }
 
+#inicio .carousel-item {
+  background-color: #000;
+}
+
 #inicio img {
-  opacity: 0.8;
+  opacity: 0.29;
 }
 
 /*--------------------------------------------------------------
@@ -511,6 +515,9 @@ h3 {
   background-color: #0c0b0b;
   color: #ffff;
   text-align: center;
+  border-top: 1px solid rgba(50, 50, 50, 0.3);
+  width: 100%;
+  bottom: 0;
 }
 
 #footer i {
