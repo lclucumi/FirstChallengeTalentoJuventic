@@ -102,6 +102,7 @@ header .bx {
 --------------------------------------------------------------*/
 #menu {
   padding: 104px 0 80px 0;
+  width: 100%;
   background-image: url("../images/menu/menu-bg.png");
 }
 
